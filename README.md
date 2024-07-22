@@ -1,5 +1,6 @@
 Docker PHP8 MYSQL8 PhpMyAdmin Phpstorm
 Klasorler oluşması için text.txt dosyası eklenmiştir, containerı ayağa kaldırmadan önce siliniz.
+
 Github üzerinden projeyi indiriyoruz ve docker compose ayağa kaldırıyoruz.
 >    docker-compose up -d
 
